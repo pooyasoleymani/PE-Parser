@@ -1,6 +1,6 @@
 # PE Parser — Ubuntu / GCC
 
-A C++17 command-line PE parser intended as a practical starting implementation for the AmnAfzar challenge.
+A C++17 command-line PE parser intended as a practical starting implementation for the PE parser challenge.
 
 ## Implemented
 
